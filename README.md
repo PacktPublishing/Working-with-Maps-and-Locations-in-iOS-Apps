@@ -41,7 +41,7 @@ This course has been tested on the following system configuration:
 
 ●	Memory: 16GB
 
-●	Hard Disk Space: 200MB
+●	Hard Disk Space: 200GB
 
 
 
